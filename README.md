@@ -130,9 +130,3 @@ meme-app/
 │   └── test_public_api.py
 ├── docker-compose.yml
 └── README.md
-
-
-
-## Лицензия
-
-[MIT](https://choosealicense.com/licenses/mit/)
