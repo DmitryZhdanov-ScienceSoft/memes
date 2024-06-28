@@ -114,19 +114,4 @@ docker-compose run public_api pytest
 ## Структура проекта
 
 
-meme-app/
-├── public_api/
-│   ├── Dockerfile
-│   ├── main.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── database.py
-│   └── requirements.txt
-├── media_service/
-│   ├── Dockerfile
-│   ├── main.py
-│   └── requirements.txt
-├── tests/
-│   └── test_public_api.py
-├── docker-compose.yml
-└── README.md
+![image](https://github.com/DmitryZhdanov-ScienceSoft/memes/assets/119594032/bee3b8dc-570e-46ff-9028-79e037a859a5)
