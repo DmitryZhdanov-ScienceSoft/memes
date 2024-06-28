@@ -114,5 +114,6 @@ docker-compose run public_api pytest
 ## Структура проекта
 
 
-![image](https://github.com/DmitryZhdanov-ScienceSoft/memes/assets/119594032/8bc23681-f123-49bb-a7cc-dfbc8c6d6c20)
+![image](https://github.com/DmitryZhdanov-ScienceSoft/memes/assets/119594032/f2657341-93a8-4d2e-8a6d-db1a6bd40c8a)
+
 
